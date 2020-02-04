@@ -1,5 +1,10 @@
-## HW1
 
+
+## Data Mining Course
+In the course, we have used R and Python languages and operated some data manipulation, visualization and Prediction techniques.
+Assignments and the project of the course are as follows:
+
+## HW1
 [HW1](Homework 1.html) is here.
 
 ## HW2
@@ -11,3 +16,12 @@
 ## HW4
 [HW4](Homework 4.html) is here.
  This was a group homework, I did it with Fatih Kubilay Yavuz who is my group member.
+ 
+## Term Project
+[Term Project](IE582_Project_Report.html) is here.
+## Codes of Term Project
+[Codes of Term Project](IE582_Project_Code.html) are here.
+ 
+ 
+ 
+ 
